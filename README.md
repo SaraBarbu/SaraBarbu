@@ -28,7 +28,7 @@ To learn more about the study or to participate visit [Montembeault Lab Facebook
 
 
 ### 🖼️ Images10K Project  
-Co-led with **Dre. Lune Bellec** as part of **Brainhack School 2025**, *Images10K* is an **open-source visual dataset** built to explore human object and animal categorization. The dataset was developed to study how people classify and interpret visual stimuli — topics relevant to **semantic processing**, **object recognition**, and **categorization research**. 
+Co-led with *Dre. Lune Bellec* as part of **Brainhack School 2025**, *Images10K* is an **open-source visual dataset** built to explore human object and animal categorization. The dataset was developed to study how people classify and interpret visual stimuli — topics relevant to **semantic processing**, **object recognition**, and **categorization research**. 
 
 You can explore it here:  
 🔗 **[Barbu-Images10K](https://github.com/brainhack-school2025/Barbu-Images10K)**  - main Brainhack School repo
