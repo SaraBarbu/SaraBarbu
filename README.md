@@ -7,6 +7,8 @@
 
 
 
+
+
 ### 🎓 Academic Background  
 -  **B.Sc. in Cognitive Neuroscience** – Université de Montréal  
   Specialized in neuropsychology, with a strong interest in  brain–behavior relationships and cognitive aging.  
@@ -14,10 +16,14 @@
 
 
 
+
+
 ### 🧠 Current Research  
 At the **Douglas Research Centre**, I study how aging influences **social cognitive abilities** such as theory of mind and emotion recognition, using **neuropsychological and behavioral assessments with French-Canadian participants across adulthood**, including healthy older adults. 
 
 To learn more about the study or to participate visit [Montembeault Lab Facebook page](https://www.facebook.com/profile.php?id=61573171227555&locale=fr_CA)
+
+
 
 
 
