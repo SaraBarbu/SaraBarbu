@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sara Barbu  
+## 👋 Hi, I'm Sara Barbu  
 
 🎓 **Master’s student in Psychology** at Université de Montréal  
 🧠 **Working at the Douglas Research Centre (Montembeault Lab)**  
