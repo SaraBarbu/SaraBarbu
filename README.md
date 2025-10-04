@@ -6,7 +6,7 @@
 🌍 Passionate about **cognitive neuroscience**, **neuropsychology** and **healthy and pathological aging research**
 
 
-
+---
 
 
 ### 🎓 Academic Background  
@@ -15,7 +15,7 @@
 - Currently completing a **research-based Master’s** focused on **social cognitive functioning in older adults**, supervised by *Dr. Maxime Montembeault*.
 
 
-
+---
 
 
 ### 🧠 Current Research  
@@ -24,7 +24,7 @@ At the **Douglas Research Centre**, I study how aging influences **social cognit
 To learn more about the study or to participate visit [Montembeault Lab Facebook page](https://www.facebook.com/profile.php?id=61573171227555&locale=fr_CA)
 
 
-
+---
 
 
 ### 🖼️ Images10K Project  
